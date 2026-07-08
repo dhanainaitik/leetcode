@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dhanainaitik/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/dhanainaitik/leetcode/tree/master/0027-remove-element) |
 | [2942-find-words-containing-character](https://github.com/dhanainaitik/leetcode/tree/master/2942-find-words-containing-character) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhanainaitik/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/dhanainaitik/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhanainaitik/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhanainaitik/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhanainaitik/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhanainaitik/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
