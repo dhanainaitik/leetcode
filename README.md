@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanainaitik/leetcode/tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/dhanainaitik/leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhanainaitik/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/dhanainaitik/leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhanainaitik/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhanainaitik/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/dhanainaitik/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/dhanainaitik/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
