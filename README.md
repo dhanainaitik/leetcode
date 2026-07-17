@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dhanainaitik/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dhanainaitik/leetcode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhanainaitik/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/dhanainaitik/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/dhanainaitik/leetcode/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dhanainaitik/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/dhanainaitik/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhanainaitik/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/dhanainaitik/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhanainaitik/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/dhanainaitik/leetcode/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/dhanainaitik/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
