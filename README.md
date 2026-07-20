@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhanainaitik/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dhanainaitik/leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhanainaitik/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/dhanainaitik/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/dhanainaitik/leetcode/tree/master/2942-find-words-containing-character) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/dhanainaitik/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhanainaitik/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanainaitik/leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/dhanainaitik/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/dhanainaitik/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/dhanainaitik/leetcode/tree/master/0901-online-stock-span) |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/dhanainaitik/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
