@@ -1,33 +1,32 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
+        // first ham stack mai push krnege open brackets then ham char jo ki string mai hai closing wle usne st.top ko match krvayenge agr same aajaye to pop and stack mepty rhe jaye toh true hai 
 
-        for(int i = 0; i < s.size(); i++) {
+        stack<char>st;
+
+        for(int i = 0 ; i<s.size() ; i++){
             char ch = s[i];
-
-            if(ch == '(' || ch == '{' || ch == '[') {
+            if(ch == '(' || ch == '[' || ch == '{'){
                 st.push(ch);
             }
-            else {
-                if(!st.empty()) {
-                    char top = st.top();
+            else{
+                if(!st.empty()){
 
-                    if((ch == ')' && top == '(') ||
-                       (ch == ']' && top == '[') ||
-                       (ch == '}' && top == '{')) {
+                    if(ch == ')' && st.top() == '(' || ch == ']' && st.top() == '[' || ch == '}' && st.top() == '{'){
+
                         st.pop();
                     }
-                    else {
+                    else{
                         return false;
                     }
                 }
-                else {
+                else{
                     return false;
                 }
             }
         }
-
+        
         return st.empty();
     }
 };
