@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhanainaitik/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/dhanainaitik/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/dhanainaitik/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhanainaitik/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/dhanainaitik/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dhanainaitik/leetcode/tree/master/0496-next-greater-element-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dhanainaitik/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dhanainaitik/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhanainaitik/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/dhanainaitik/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -103,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhanainaitik/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhanainaitik/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
