@@ -2,18 +2,18 @@ class Solution {
 public:
 
 
-    int operate(int a, int b, string op) {
+    int operate(int a, int b, string traversal) {
 
-    if (op == "+") {
+    if (traversal == "+") {
         return b + a;
     }
-    else if (op == "-") {
+    else if (traversal == "-") {
         return b - a;
     }
-    else if (op == "*") {
+    else if (traversal == "*") {
         return b * a;
     }
-    else if (op == "/") {
+    else if (traversal == "/") {
         return b / a;
     }
 
