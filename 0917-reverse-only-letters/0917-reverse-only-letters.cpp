@@ -26,9 +26,9 @@ public:
             else if(check(s[i]) == true && check(s[j]) == false){
                 j--;
             }
-            else if(check(s[i]) == false && check(s[j]) == true){
-                i++;
-            }
+            // else if(check(s[i]) == false && check(s[j]) == true){
+            //     i++;
+            // }
             else{
                 i++;
                 j--;
