@@ -12,7 +12,7 @@ public:
         for(int i=0 ; i<n ; i++){
             if(gifts[i] == maxi){
                 gifts[i] = ans;
-                break;
+                break; // break is added to make sure only one pile gets effected if in case there are two 100 in piles ...
             }
         }
 
