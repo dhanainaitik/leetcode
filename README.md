@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dhanainaitik/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/dhanainaitik/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/dhanainaitik/leetcode/tree/master/0085-maximal-rectangle) |
+| [0338-counting-bits](https://github.com/dhanainaitik/leetcode/tree/master/0338-counting-bits) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhanainaitik/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
 |  |
@@ -178,5 +179,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/dhanainaitik/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/dhanainaitik/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dhanainaitik/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/dhanainaitik/leetcode/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/dhanainaitik/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
