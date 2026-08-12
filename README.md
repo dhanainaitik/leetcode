@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dhanainaitik/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanainaitik/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/dhanainaitik/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -185,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/dhanainaitik/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/dhanainaitik/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/dhanainaitik/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/dhanainaitik/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
