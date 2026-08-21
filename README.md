@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanainaitik/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/dhanainaitik/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/dhanainaitik/leetcode/tree/master/0496-next-greater-element-i) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/dhanainaitik/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/dhanainaitik/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dhanainaitik/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhanainaitik/leetcode/tree/master/0907-sum-of-subarray-minimums) |
