@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/dhanainaitik/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
+| [1922-count-good-numbers](https://github.com/dhanainaitik/leetcode/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhanainaitik/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanainaitik/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dhanainaitik/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1922-count-good-numbers](https://github.com/dhanainaitik/leetcode/tree/master/1922-count-good-numbers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/dhanainaitik/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
