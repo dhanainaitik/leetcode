@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/dhanainaitik/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dhanainaitik/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhanainaitik/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/dhanainaitik/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dhanainaitik/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanainaitik/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dhanainaitik/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/dhanainaitik/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dhanainaitik/leetcode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dhanainaitik/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/dhanainaitik/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dhanainaitik/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -217,4 +221,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/dhanainaitik/leetcode/tree/master/1534-count-good-triplets) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
