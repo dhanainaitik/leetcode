@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dhanainaitik/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanainaitik/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/dhanainaitik/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/dhanainaitik/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/dhanainaitik/leetcode/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/dhanainaitik/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/dhanainaitik/leetcode/tree/master/0735-asteroid-collision) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dhanainaitik/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/dhanainaitik/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/dhanainaitik/leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/dhanainaitik/leetcode/tree/master/0283-move-zeroes) |
 | [0917-reverse-only-letters](https://github.com/dhanainaitik/leetcode/tree/master/0917-reverse-only-letters) |
 ## String
 |  |
