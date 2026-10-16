@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/dhanainaitik/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/dhanainaitik/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dhanainaitik/leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dhanainaitik/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhanainaitik/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/dhanainaitik/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dhanainaitik/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dhanainaitik/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/dhanainaitik/leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dhanainaitik/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dhanainaitik/leetcode/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/dhanainaitik/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
