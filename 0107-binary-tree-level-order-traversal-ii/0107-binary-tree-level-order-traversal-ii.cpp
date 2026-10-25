@@ -47,7 +47,9 @@ public:
 
         }
 
-         reverse(res.begin(),res.end());
+        // return reverse(res.begin(),res.end()); // wrong why ?? because reverse ka return type hai void and we cant return voic ... 
+
+         reverse(res.begin() , res.end());
 
          return res;
     }
