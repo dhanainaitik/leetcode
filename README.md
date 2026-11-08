@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/dhanainaitik/leetcode/tree/master/1534-count-good-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dhanainaitik/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/dhanainaitik/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2574-left-and-right-sum-differences](https://github.com/dhanainaitik/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/dhanainaitik/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/dhanainaitik/leetcode/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhanainaitik/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/dhanainaitik/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/dhanainaitik/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
