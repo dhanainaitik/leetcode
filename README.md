@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhanainaitik/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/dhanainaitik/leetcode/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/dhanainaitik/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dhanainaitik/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/dhanainaitik/leetcode/tree/master/0402-remove-k-digits) |
 | [0917-reverse-only-letters](https://github.com/dhanainaitik/leetcode/tree/master/0917-reverse-only-letters) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanainaitik/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/dhanainaitik/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/dhanainaitik/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dhanainaitik/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/dhanainaitik/leetcode/tree/master/0496-next-greater-element-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhanainaitik/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhanainaitik/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dhanainaitik/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dhanainaitik/leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/dhanainaitik/leetcode/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dhanainaitik/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
