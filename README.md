@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/dhanainaitik/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhanainaitik/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/dhanainaitik/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/dhanainaitik/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/dhanainaitik/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhanainaitik/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/dhanainaitik/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/dhanainaitik/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/dhanainaitik/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/dhanainaitik/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/dhanainaitik/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/dhanainaitik/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Newton's Method
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dhanainaitik/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dhanainaitik/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhanainaitik/leetcode/tree/master/0226-invert-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/dhanainaitik/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
