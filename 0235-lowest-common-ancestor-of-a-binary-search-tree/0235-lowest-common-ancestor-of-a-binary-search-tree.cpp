@@ -8,39 +8,24 @@
  * };
  */
 
-
 class Solution {
 public:
-    TreeNode* ans = NULL;
-
-    int solve(TreeNode* root, TreeNode* p, TreeNode* q) {
-
-        if(root == NULL) {
-            return 0;
-        }
-
-        int left = solve(root->left, p, q);
-        int right = solve(root->right, p, q);
-
-        int self = 0;
-
-        if(root == p || root == q) {
-            self = 1;
-        }
-
-        int total = self + left + right;
-
-        if(total == 2 && ans == NULL) {
-            ans = root;
-        }
-
-        return total;
-    }
-
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-
-        solve(root, p, q);
-
-        return ans;
+        if (root == NULL) {
+            return NULL;
+        }
+        
+        // If both p and q are greater than root, LCA lies in the right subtree
+        if (root->val < p->val && root->val < q->val) {
+            return lowestCommonAncestor(root->right, p, q);
+        }
+        
+        // If both p and q are smaller than root, LCA lies in the left subtree
+        if (root->val > p->val && root->val > q->val) {
+            return lowestCommonAncestor(root->left, p, q);
+        }
+        
+        // Otherwise, root is the split point (or equals p or q), so it is the LCA
+        return root;
     }
 };
