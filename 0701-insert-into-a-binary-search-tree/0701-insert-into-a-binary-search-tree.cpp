@@ -12,18 +12,39 @@
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        // Base case: found the empty spot to insert the new node
-        if (root == nullptr) {
+
+        if(root == NULL){
             return new TreeNode(val);
         }
-        
-        // Traverse left or right based on BST property
-        if (val < root->val) {
-            root->left = insertIntoBST(root->left, val);
-        } else {
-            root->right = insertIntoBST(root->right, val);
+
+        TreeNode* cur = root;
+
+        while(true){
+
+            if(cur->val<=val){
+
+            
+            if(cur->right!=NULL){
+                cur = cur->right;
+            }
+
+            else{
+                cur->right = new TreeNode(val);
+                break;
+            }
+
+            }
+
+            else{
+                if(cur->left!=NULL){
+                    cur = cur->left;
+                }
+                else{
+                    cur->left = new TreeNode(val);
+                    break;
+                }
+            }
         }
-        
         return root;
     }
 };
