@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/dhanainaitik/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dhanainaitik/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanainaitik/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1512-number-of-good-pairs](https://github.com/dhanainaitik/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/dhanainaitik/leetcode/tree/master/1534-count-good-triplets) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanainaitik/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dhanainaitik/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dhanainaitik/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/dhanainaitik/leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhanainaitik/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1512-number-of-good-pairs](https://github.com/dhanainaitik/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhanainaitik/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3668-restore-finishing-order](https://github.com/dhanainaitik/leetcode/tree/master/3668-restore-finishing-order) |
 ## Design
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/dhanainaitik/leetcode/tree/master/0224-basic-calculator) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dhanainaitik/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dhanainaitik/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/dhanainaitik/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/dhanainaitik/leetcode/tree/master/1922-count-good-numbers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/dhanainaitik/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhanainaitik/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dhanainaitik/leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dhanainaitik/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/dhanainaitik/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Enumeration
 |  |
 | ------- |
