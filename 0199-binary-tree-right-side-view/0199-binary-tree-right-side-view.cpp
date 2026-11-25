@@ -22,7 +22,10 @@ public:
         if(root == NULL){
 
             return{} ;
-        }
+        }                                               // 4
+                                                    // 9 10  13 14
+                                                // 11 15 16 
+
 
         q.push(root);
 
