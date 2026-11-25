@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/dhanainaitik/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/dhanainaitik/leetcode/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhanainaitik/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhanainaitik/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dhanainaitik/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/dhanainaitik/leetcode/tree/master/1922-count-good-numbers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/dhanainaitik/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhanainaitik/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
